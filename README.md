@@ -18,6 +18,4 @@ Untuk memainkan permainan hanya perlu mendownload build dari game nya yaitu yang
 - Semakin banyak point, difficulty semain naik
 
 ## Authors
-Ignatius Dwiki Iskandar (Haelinythii)
-
-ID Agate: 321
+Muhammad Adam (Nyarismati)
